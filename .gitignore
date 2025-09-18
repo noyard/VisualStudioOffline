@@ -1,0 +1,6 @@
+
+# Ignore files that start with VS
+VS*
+
+# Ignore directories that start with VS
+VS*/

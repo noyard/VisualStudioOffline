@@ -1,5 +1,0 @@
-
-
-#ignore any files or folders that start with VS
-VS*
-
