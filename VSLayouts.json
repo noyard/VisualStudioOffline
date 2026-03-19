@@ -1,0 +1,158 @@
+[
+    {
+        "Release":  "VS2017Com",
+        "Enabled":  false,
+        "URI":  "https://aka.ms/vs/15/release/vs_community.exe",
+        "Folder":  "VS2017Community"
+    },
+    {
+        "Release":  "VS2017Ent",
+        "Enabled":  false,
+        "URI":  "https://aka.ms/vs/15/release/vs_enterprise.exe",
+        "Folder":  "VS2017Enterprise"
+    },
+    {
+        "Release":  "VS2017Pro",
+        "Enabled":  false,
+        "URI":  "https://aka.ms/vs/15/release/vs_professional.exe",
+        "Folder":  "VS2017Professional"
+    },
+    {
+        "Release":  "VS2019Com",
+        "Enabled":  false,
+        "URI":  "https://aka.ms/vs/16/release/vs_community.exe",
+        "Folder":  "VS2019Community"
+    },
+    {
+        "Release":  "VS2019Ent",
+        "Enabled":  false,
+        "URI":  "https://aka.ms/vs/16/release/vs_enterprise.exe",
+        "Folder":  "VS2019Enterprise"
+    },
+    {
+        "Release":  "VS2019Pro",
+        "Enabled":  false,
+        "URI":  "https://aka.ms/vs/16/release/vs_professional.exe",
+        "Folder":  "VS2019Professional"
+    },
+    {
+        "Release":  "VS2022Com",
+        "Enabled":  false,
+        "URI":  "https://aka.ms/vs/17/release/vs_community.exe",
+        "Folder":  "VS2022Community"
+    },
+    {
+        "Release":  "VS2022Ent",
+        "Enabled":  false,
+        "URI":  "https://aka.ms/vs/17/release/vs_enterprise.exe",
+        "Folder":  "VS2022Enterprise"
+    },
+    {
+        "Release":  "VS2022EntLTSC170",
+        "Enabled":  false,
+        "URI":  "https://aka.ms/vs/17/release.LTSC.17.0/vs_enterprise.exe",
+        "Folder":  "VS2022EnterpriseLTSC170"
+    },
+    {
+        "Release":  "VS2022EntLTSC172",
+        "Enabled":  false,
+        "URI":  "https://aka.ms/vs/17/release.LTSC.17.2/vs_enterprise.exe",
+        "Folder":  "VS2022EnterpriseLTSC172"
+    },
+    {
+        "Release":  "VS2022EntLTSC174",
+        "Enabled":  false,
+        "URI":  "https://aka.ms/vs/17/release.LTSC.17.4/vs_enterprise.exe",
+        "Folder":  "VS2022EnterpriseLTSC174"
+    },
+    {
+        "Release":  "VS2022EntLTSC176",
+        "Enabled":  false,
+        "URI":  "https://aka.ms/vs/17/release.LTSC.17.6/vs_enterprise.exe",
+        "Folder":  "VS2022EnterpriseLTSC176"
+    },
+    {
+        "Release":  "VS2022EntLTSC178",
+        "Enabled":  false,
+        "URI":  "https://aka.ms/vs/17/release.LTSC.17.8/vs_enterprise.exe",
+        "Folder":  "VS2022EnterpriseLTSC178"
+    },
+    {
+        "Release":  "VS2022EntLTSC1710",
+        "Enabled":  false,
+        "URI":  "https://aka.ms/vs/17/release.LTSC.17.10/vs_enterprise.exe",
+        "Folder":  "VS2022EnterpriseLTSC1710"
+    },
+    {
+        "Release":  "VS2022EntLTSC1712",
+        "Enabled":  false,
+        "URI":  "https://aka.ms/vs/17/release.LTSC.17.12/vs_enterprise.exe",
+        "Folder":  "VS2022EnterpriseLTSC1712"
+    },
+    {
+        "Release":  "VS2022Pro",
+        "Enabled":  false,
+        "URI":  "https://aka.ms/vs/17/release/vs_professional.exe",
+        "Folder":  "VS2022Professional"
+    },
+    {
+        "Release":  "VS2022ProLTSC170",
+        "Enabled":  false,
+        "URI":  "https://aka.ms/vs/17/release.LTSC.17.0/vs_professional.exe",
+        "Folder":  "VS2022ProfessionalLTSC170"
+    },
+    {
+        "Release":  "VS2022ProLTSC172",
+        "Enabled":  false,
+        "URI":  "https://aka.ms/vs/17/release.LTSC.17.2/vs_professional.exe",
+        "Folder":  "VS2022ProfessionalLTSC172"
+    },
+    {
+        "Release":  "VS2022ProLTSC174",
+        "Enabled":  false,
+        "URI":  "https://aka.ms/vs/17/release.LTSC.17.4/vs_professional.exe",
+        "Folder":  "VS2022ProfessionalLTSC174"
+    },
+    {
+        "Release":  "VS2022ProLTSC176",
+        "Enabled":  false,
+        "URI":  "https://aka.ms/vs/17/release.LTSC.17.6/vs_professional.exe",
+        "Folder":  "VS2022ProfessionalLTSC176"
+    },
+    {
+        "Release":  "VS2022ProLTSC178",
+        "Enabled":  false,
+        "URI":  "https://aka.ms/vs/17/release.LTSC.17.8/vs_professional.exe",
+        "Folder":  "VS2022ProfessionalLTSC178"
+    },
+    {
+        "Release":  "VS2022ProLTSC1710",
+        "Enabled":  false,
+        "URI":  "https://aka.ms/vs/17/release.LTSC.17.10/vs_professional.exe",
+        "Folder":  "VS2022ProfessionalLTSC1710"
+    },
+    {
+        "Release":  "VS2022ProLTSC1712",
+        "Enabled":  false,
+        "URI":  "https://aka.ms/vs/17/release.LTSC.17.12/vs_professional.exe",
+        "Folder":  "VS2022ProfessionalLTSC1712"
+    },
+    {
+        "Release":  "VS2026Com",
+        "Enabled":  false,
+        "URI":  "https://aka.ms/vs/stable/vs_community.exe",
+        "Folder":  "VS2026Community"
+    },
+    {
+        "Release":  "VS2026Ent",
+        "Enabled":  false,
+        "URI":  "https://aka.ms/vs/stable/vs_enterprise.exe",
+        "Folder":  "VS2026Enterprise"
+    },
+    {
+        "Release":  "VS2026Pro",
+        "Enabled":  true,
+        "URI":  "https://aka.ms/vs/stable/vs_professional.exe",
+        "Folder":  "VS2026Professional"
+    }
+]
