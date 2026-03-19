@@ -1,0 +1,17 @@
+[HKLM\SOFTWARE\Policies\Microsoft\VisualStudio\Setup]
+"AllowStandardUserControl"=dword:00000002
+"EnableAdministratorUpdates"=dword:00000000
+"SourceLocation"="C:\\VSLayout"
+"SourceLocationRequiresElevation"=dword:00000000
+"KeepDownloadedPayloads"=dword:00000001
+"DisableChannelSelection"=dword:00000001
+"DisableFeedback"=dword:00000001
+"DisableSurvey"=dword:00000001
+"DisableUpdateNotification"=dword:00000001
+"RemoveOosComponents"=dword:00000001
+"DisableOnlineContent"=dword:00000001
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\VisualStudio\Feedback]
+"ProductFeedbackDisabled"=dword:00000001
+"SurveysDisabled"=dword:00000001
