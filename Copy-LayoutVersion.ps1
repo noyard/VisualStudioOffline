@@ -107,10 +107,11 @@ try {
     }
 }
 finally {
-    #icacls $DestinationPath `
-    #        /grant 'SYSTEM:(OI)(CI)RX' `
-    #        /grant 'BUILTIN\Administrators:(OI)(CI)RX' `
-    #        /grant 'Authenticated Users:(OI)(CI)RX' | Out-Null
+    icacls $DestinationPath `
+        /grant 'SYSTEM:(OI)(CI)RX' `
+        /grant 'BUILTIN\Administrators:(OI)(CI)RX' `
+        /grant 'Authenticated Users:(OI)(CI)RX' | Out-Null
 }
+
 
 Write-Output "Copied release '$($selectedLayout.Release)' from '$sourcePath' to '$DestinationPath'."
